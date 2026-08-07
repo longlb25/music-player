@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="display:none">
+  <symbol id="icon-folder" viewBox="0 0 24 24"><path d="M3.5 6.5a2 2 0 0 1 2-2h4l2 2h7a2 2 0 0 1 2 2v8.75a2.25 2.25 0 0 1-2.25 2.25H5.75a2.25 2.25 0 0 1-2.25-2.25V6.5Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"/></symbol>
+  <symbol id="icon-files" viewBox="0 0 24 24"><path d="M7 3.5h6l4 4v10A2.5 2.5 0 0 1 14.5 20h-7A2.5 2.5 0 0 1 5 17.5V6a2.5 2.5 0 0 1 2-2.45Z" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="1.8"/><path d="M13 3.75V8h4.25M8.5 12h5M8.5 15.5h5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"/></symbol>
+  <symbol id="icon-trash" viewBox="0 0 24 24"><path d="M4.5 7h15M9 7V4.5h6V7m2.5 0-.75 12h-9.5L6.5 7M10 10.5v5M14 10.5v5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"/></symbol>
+  <symbol id="icon-close" viewBox="0 0 24 24"><path d="m7 7 10 10M17 7 7 17" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="2"/></symbol>
+  <symbol id="icon-shuffle" viewBox="0 0 24 24"><path d="M4 7h2.5c4.5 0 6.5 10 11 10H20m-3-3 3 3-3 3M4 17h2.5c1.45 0 2.65-1.04 3.75-2.47M14 8.7C15.02 7.7 16.14 7 17.5 7H20m-3-3 3 3-3 3" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"/></symbol>
+  <symbol id="icon-previous" viewBox="0 0 24 24"><path d="M6 5v14M18.5 6.25 9 12l9.5 5.75V6.25Z" fill="currentColor"/></symbol>
+  <symbol id="icon-play" viewBox="0 0 24 24"><path d="m8 5 11 7-11 7V5Z" fill="currentColor"/></symbol>
+  <symbol id="icon-pause" viewBox="0 0 24 24"><path d="M7 5h3.5v14H7V5Zm6.5 0H17v14h-3.5V5Z" fill="currentColor"/></symbol>
+  <symbol id="icon-next" viewBox="0 0 24 24"><path d="M18 5v14M5.5 6.25 15 12l-9.5 5.75V6.25Z" fill="currentColor"/></symbol>
+  <symbol id="icon-repeat" viewBox="0 0 24 24"><path d="M17 4.5 20 7l-3 2.5M20 7H7a3 3 0 0 0-3 3v1m3 8.5L4 17l3-2.5M4 17h13a3 3 0 0 0 3-3v-1" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"/></symbol>
+  <symbol id="icon-volume" viewBox="0 0 24 24"><path d="M4 9.5v5h4l4.5 4V5.5L8 9.5H4Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"/><path d="M16 9a4 4 0 0 1 0 6m2.5-8.5a7.5 7.5 0 0 1 0 11" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.8"/></symbol>
+  <symbol id="icon-volume-off" viewBox="0 0 24 24"><path d="M4 9.5v5h4l4.5 4V5.5L8 9.5H4Z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"/><path d="m16 10 4 4m0-4-4 4" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.8"/></symbol>
+</svg>
